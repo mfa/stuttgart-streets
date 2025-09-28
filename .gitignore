@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# intermediate files
+completed_queries.json
+street_names.json
+
+.claude
